@@ -33,7 +33,7 @@ DROP TABLE dept_emp
 CREATE TABLE dept_emp (
 	emp_no INT NOT NULL,
 	dept_no VARCHAR(10) NOT NULL
-);uyyy
+);
 
 select * from public.dept_emp
 
